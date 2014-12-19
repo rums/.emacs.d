@@ -61,7 +61,7 @@
  '(haskell-process-type (quote cabal-repl))
  '(haskell-stylish-on-save t)
  '(minimap-always-recenter t)
- '(org-agenda-files (quote ("c:/msys64/usr/bin/todo.org" "d:/SkyDrive/School/2014 Fall/Programming Languages [COP 4020]/notes/11-06-2014.org" "c:/msys64/home/Micah/org/work.org" "c:/msys64/home/Micah/org/school.org" "c:/msys64/home/Micah/org/home.org")))
+ '(org-agenda-files (quote ("c:/msys64/usr/bin/todo.org" "c:/msys64/home/Micah/org/work.org" "c:/msys64/home/Micah/org/school.org" "c:/msys64/home/Micah/org/home.org")))
  '(sml-indent-level 2 t))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
